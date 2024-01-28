@@ -1,0 +1,4 @@
+// Compiling C on Windows
+-lws2_32
+
+ { gcc TCP_Server2.c -o TCP_Server2 -lws2_32 }
